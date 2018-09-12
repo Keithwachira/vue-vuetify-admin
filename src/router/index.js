@@ -12,5 +12,6 @@ export default new Router({
       name: 'DashBoard',
       component: DashBoard
     }
-  ]
+  ],
+  mode:'history'
 })

@@ -2,7 +2,7 @@
 <v-container>
   <v-layout>
 
-    DashBoard Page
+
 
   </v-layout>
 
